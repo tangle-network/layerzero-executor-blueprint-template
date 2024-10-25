@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "layerzero-executor-blueprint-template",
+    "description": "A Tangle Blueprint specifying a LayerZero Executor",
+    "author": "Tangle <drew@tangle.tools>",
+    "category": null,
+    "code_repository": "https://github.com/tangle-network/layerzero-executor-blueprint-template",
+    "logo": null,
+    "website": "https://tangle.tools",
+    "license": "Unlicense"
+  },
+  "jobs": [],
+  "registration_hook": "None",
+  "registration_params": [],
+  "request_hook": "None",
+  "request_params": [],
+  "gadget": {
+    "Native": {
+      "sources": [
+        {
+          "fetcher": {
+            "Testing": {
+              "cargo_package": "layerzero-executor-blueprint-template",
+              "cargo_bin": "main",
+              "base_path": "/Users/drew/webb/layerzero-executor-template"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
