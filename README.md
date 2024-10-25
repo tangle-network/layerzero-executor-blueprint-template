@@ -1,6 +1,6 @@
 # <h1 align="center">LayerZero Executor Blueprint Template 🚀</h1>
 
-<p align="center">A comprehensive template for creating Executor Blueprints for LayerZero V2 on Tangle Network</p>
+<p align="center">A comprehensive template for creating LayerZero V2 Executors on Tangle Network</p>
 
 ## 📚 Overview
 
