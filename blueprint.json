@@ -9,10 +9,11 @@
     "website": "https://tangle.tools",
     "license": "Unlicense"
   },
+  "manager": {
+    "Evm": ""
+  },
   "jobs": [],
-  "registration_hook": "None",
   "registration_params": [],
-  "request_hook": "None",
   "request_params": [],
   "gadget": {
     "Native": {
