@@ -32,7 +32,7 @@ alloy-network = { version = "0.1" }
 alloy-contract = { version = "0.1" }
 alloy-consensus = { version = "0.1" }
 alloy-transport = { version = "0.1" }
-alloy-transport-http = { version = "0.1" }
+alloy-transport-http = { version = "0.5" }
 
 [dependencies.gadget-sdk]
 version = "0.3.0"
